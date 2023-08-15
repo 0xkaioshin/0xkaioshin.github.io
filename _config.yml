@@ -18,7 +18,7 @@ twitter_username: "0xkaioshin"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "tactile"
+theme: "minima"
 
 #rss: rss
 
